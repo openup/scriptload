@@ -1,7 +1,7 @@
 /*
     Script Loader by Karim
-    http://www.karimsomai.ovh
-    27 Janvier 2017
+    http://karim.tn
+    27 Janvier 2014
     somaikarim@gmail.com
 */
 
